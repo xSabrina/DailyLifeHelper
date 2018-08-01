@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DailyLifeHelper</string>
+    <string name="sort_me_text">Sort the List</string>
+    <string name="close_me_text">Close ToDoList </string>
+    <string name="delete_title">DELETE ALL</string>
+    <string name="button_text">ADD</string>
+    <string name="hint_text">Enter new Task</string>
+
+</resources>
